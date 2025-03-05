@@ -1,0 +1,103 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AstraReconsSaas
+build_property.RootNamespace = AstraReconsSaas
+build_property.ProjectDir = /home/parth/Projects/AstraReconsSaas/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /home/parth/Projects/AstraReconsSaas
+build_property._RazorSourceGeneratorDebug = 
+
+[/home/parth/Projects/AstraReconsSaas/Components/Account/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BY2NvdW50L0xvZ2luLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/parth/Projects/AstraReconsSaas/Components/Account/Profile.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BY2NvdW50L1Byb2ZpbGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/parth/Projects/AstraReconsSaas/Components/Account/Register.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BY2NvdW50L1JlZ2lzdGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/parth/Projects/AstraReconsSaas/Components/Admin/Dashboard.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BZG1pbi9EYXNoYm9hcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/parth/Projects/AstraReconsSaas/Components/Admin/SubcriptionManagement.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BZG1pbi9TdWJjcmlwdGlvbk1hbmFnZW1lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/parth/Projects/AstraReconsSaas/Components/Admin/UserManagement.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BZG1pbi9Vc2VyTWFuYWdlbWVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/parth/Projects/AstraReconsSaas/Components/App.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BcHAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/parth/Projects/AstraReconsSaas/Components/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Db3VudGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/parth/Projects/AstraReconsSaas/Components/Pages/Error.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9FcnJvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/parth/Projects/AstraReconsSaas/Components/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Ib21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/parth/Projects/AstraReconsSaas/Components/Pages/Weather.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9XZWF0aGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/parth/Projects/AstraReconsSaas/Components/Routes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9Sb3V0ZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/parth/Projects/AstraReconsSaas/Components/Subscription/ManageSubscription.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9TdWJzY3JpcHRpb24vTWFuYWdlU3Vic2NyaXB0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/parth/Projects/AstraReconsSaas/Components/Subscription/Plans.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9TdWJzY3JpcHRpb24vUGxhbnMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/parth/Projects/AstraReconsSaas/Components/Subscription/Subscribe.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9TdWJzY3JpcHRpb24vU3Vic2NyaWJlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/parth/Projects/AstraReconsSaas/Components/Subscription/SubscriptionStatus.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9TdWJzY3JpcHRpb24vU3Vic2NyaXB0aW9uU3RhdHVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/parth/Projects/AstraReconsSaas/Components/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9fSW1wb3J0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/parth/Projects/AstraReconsSaas/Components/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-7rrinwzhtn
+
+[/home/parth/Projects/AstraReconsSaas/Components/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTmF2TWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-g1xxkmcjky

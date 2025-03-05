@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AstraReconsSaas", "AstraReconsSaas.csproj", "{C0731129-2E6F-AB47-78A2-FC36BCC11962}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0731129-2E6F-AB47-78A2-FC36BCC11962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0731129-2E6F-AB47-78A2-FC36BCC11962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0731129-2E6F-AB47-78A2-FC36BCC11962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0731129-2E6F-AB47-78A2-FC36BCC11962}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5693BA6-964A-404E-99FC-5A8255B30B5A}
+	EndGlobalSection
+EndGlobal
